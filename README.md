@@ -1,4 +1,4 @@
-# 2월 6일 수업(H1)
+# 2월 6일 수업(H2)
 
 
 
@@ -17,7 +17,7 @@
 	+ Bypass Reverb Zones : 리버브 존을 키거나 끄는 효과
 	+ 리버브 존 : 오디오 리스너의 위치에 따라 잔향 효과를 설정하는 도구.
   + play On Awake : 씬이 실행되는 시점에 사운드 재생. 비활성화시 Play() 명령을 통해 재생.
-
+*****
 + Loop : 무한히 도는거.
 
 + Priority : 오디오 소스의 우선순위 
@@ -64,7 +64,7 @@
 
 + 최초 생성시
  + exit play mode :
-
+*****
  ```cs
 public class SoundController : MonoBehaviour
 {
